@@ -2,19 +2,23 @@
 
 Kros Plastik kurumsal operasyon yönetim uygulaması.
 
+**İndirme sayfası:** https://tolgaeskii.github.io/krosplastik-releases/
+
 ---
 
 ## Android
 
-**APK İndir:** [KrosPlastik.apk](https://github.com/tolgaeskii/krosplastik-releases/releases/latest/download/KrosPlastik.apk)
+**APK İndir (v1.0.26):**
+https://github.com/tolgaeskii/krosplastik-releases/releases/latest/download/KrosPlastik.apk
 
-> Kurulum: APK indirdikten sonra telefonunuzda "Bilinmeyen kaynaklardan kurulum"a izin vermeniz gerekebilir.
+Google Play: *Yakında*
 
 ## iOS
 
-**App Store:** *(yakında)*
+**TestFlight (Beta):**
+https://testflight.apple.com/join/mJAMtn1d
 
-**TestFlight (Beta):** *(yakında)*
+App Store: *Yakında*
 
 ---
 
