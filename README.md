@@ -10,7 +10,7 @@ Kros Plastik kurumsal operasyon yönetim uygulaması.
 
 <img src="mockups/mockup3.png" width="220" alt="Android önizleme" />
 
-**APK İndir (v1.0.38):**
+**APK İndir (v1.0.39):**
 https://github.com/tolgaeskii/krosplastik-releases/releases/latest/download/KrosPlastik.apk
 
 Google Play: *Yakında*
@@ -19,7 +19,7 @@ Google Play: *Yakında*
 
 <img src="mockups/mockup2.png" width="220" alt="iOS önizleme" />
 
-**TestFlight (Beta — v1.0.29):**
+**TestFlight (Beta — v1.0.32):**
 https://testflight.apple.com/join/mJAMtn1d
 
 App Store: *Yakında*
