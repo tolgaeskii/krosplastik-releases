@@ -19,7 +19,7 @@ Google Play: *Yakında*
 
 <img src="mockups/mockup2.png" width="220" alt="iOS önizleme" />
 
-**TestFlight (Beta — v1.0.40):**
+**TestFlight (Beta — v1.0.41):**
 https://testflight.apple.com/join/mJAMtn1d
 
 App Store: *Yakında*
